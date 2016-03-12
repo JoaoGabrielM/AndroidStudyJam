@@ -10,8 +10,7 @@
         style="@style/linhas_tela_pricipal">
 
         <RelativeLayout
-            style="@style/divisoes_tela_principal"
-            android:background="#222011EC">
+            style="@style/divisoes_tela_principal">
 
             <ImageView
                 style="@style/imagem_background"
