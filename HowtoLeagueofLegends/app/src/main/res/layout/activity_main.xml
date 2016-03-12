@@ -6,9 +6,11 @@
     android:orientation="vertical"
     tools:context="br.edu.ifal.joaogabriel.howtoleagueoflegends.MainActivity">
 
+    <!--Primeira linha horizontal-->
     <LinearLayout
         style="@style/linhas_tela_pricipal">
 
+        <!--Primeiro slot-->
         <RelativeLayout
             style="@style/divisoes_tela_principal">
 
@@ -22,6 +24,7 @@
 
         </RelativeLayout>
 
+        <!--Segundo slot-->
         <RelativeLayout
             style="@style/divisoes_tela_principal">
 
@@ -37,9 +40,11 @@
 
     </LinearLayout>
 
+    <!--Segunda linha-->
     <LinearLayout
         style="@style/linhas_tela_pricipal">
 
+        <!--Terceiro slot-->
         <RelativeLayout
             style="@style/divisoes_tela_principal">
 
@@ -53,6 +58,7 @@
 
         </RelativeLayout>
 
+        <!--Quarto slot-->
         <RelativeLayout
             style="@style/divisoes_tela_principal">
 
@@ -68,12 +74,13 @@
 
     </LinearLayout>
 
+    <!--Ultima linha-->
     <RelativeLayout
         style="@style/linhas_tela_pricipal">
 
         <ImageView
             style="@style/imagem_background"
-            android:src="@drawable/treeline_mini_map"/>
+            android:src="@drawable/treeline_mini_mapa"/>
 
         <TextView
             style="@style/texto_caixa_tela_principal"
