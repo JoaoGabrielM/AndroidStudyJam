@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">How to, League of Legends</string>
+    <string name="mapas_alternativos">Alternative maps</string>
+    <string name="o_que_e">What is League of Legends?</string>
+    <string name="monstros_mapa_principal"></string>
+    <string name="o_mapa">How work the main map?</string>
+    <string name="quem_criou">Who created League of Legends?</string>
+</resources>
