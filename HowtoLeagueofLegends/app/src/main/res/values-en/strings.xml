@@ -6,4 +6,17 @@
     <string name="monstros_mapa_principal">What are the monsters?</string>
     <string name="o_mapa">How work the main map?</string>
     <string name="quem_criou">Who created League of Legends?</string>
+    <string name="texto_o_que_e">League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes. With an ever-expanding roster of champions, frequent updates and a thriving tournament scene, League of Legends offers endless replayability for players of every skill level.</string>
+    <string name="a_maior_comunidade">World\'s Largest Online Gaming Community</string>
+    <string name="a_maior_comunidade_expli">Join the world\'s largest online gaming community: make friends, form teams and battle tens of millions of opponents from countries across the globe, then exchange strats on reddit, YouTube, the forums and beyond</string>
+    <string name="competicao_do_seu_jeito">Compete Your Way</string>
+    <string name="competicao_do_seu_jeito_expli">Whether you\'re enjoying a game against bots or climbing the ranks of the league system, League of Legends has the tech to quickly match you with a group of similarly-skilled competitors</string>
+    <string name="crie_estrategias_e_evolua">Strategize and Evolve</string>
+    <string name="crie_estrategias_e_evolua_expli">With regular gameplay updates, multiple maps and game modes, and new champions constantly joining the League, the only limit to your success is your own ingenuity </string>
+    <string name="entre_no_mundo_dos_esports">Experience eSports</string>
+    <string name="entre_no_mundo_dos_esports_expli">As the world\'s most active competitive scene, League of Legends sports numerous tournaments worldwide, including the prestigious Championship Series where salaried pros compete for millions</string>
+    <string name="lute_com_honra">Fight with honor</string>
+    <string name="lute_com_honra_expli">Compete with honor and receive special commendations from your peers to reward your good sportsmanship</string>
+    <string name="lute_mano_a_mano">Battle Head-to-Head</string>
+    <string name="lute_mano_a_mano_expli">Combine strategic thinking, lightning reflexes and coordinated team-play to crush your enemies in both small-scale skirmishes and intense 5v5 battles</string>
 </resources>

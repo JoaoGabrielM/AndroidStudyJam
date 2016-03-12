@@ -5,4 +5,19 @@
     <string name="o_mapa">Como funciona o mapa principal?</string>
     <string name="monstros_mapa_principal">Quais são os monstros?</string>
     <string name="mapas_alternativos">Mapas alternativos</string>
+    <!--Texto página "O que é"-->
+    <string name="texto_o_que_e">League of Legends é um jogo online competitivo que mistura a velocidade e a intensidade de um RTS com elementos de RPG. Duas equipes de poderosos campeões, cada um com design e estilo único, lutam em diversos campos de batalha e modos de jogo. Com um elenco de campeões em constante expansão, atualizações frequentes e uma cena competitiva exuberante, League of Legends oferece diversão incessante para jogadores de todos os níveis de habilidade.</string>
+    <string name="lute_mano_a_mano">Lute mano a mano</string>
+    <string name="lute_mano_a_mano_expli">Combine raciocínio estratégico, reflexos rápidos e coordenação da equipe para esmagar seus inimigos em confrontos menores e intensas batalhas 5v5</string>
+    <string name="crie_estrategias_e_evolua">Crie estratégias e evolua</string>
+    <string name="crie_estrategias_e_evolua_expli">Com atualizações frequentes, vários mapas e modos de jogo e novos campeões juntando-se à Liga o tempo todo, o único limite para o seu sucesso é a sua engenhosidade</string>
+    <string name="competicao_do_seu_jeito">Competição do seu jeito</string>
+    <string name="competicao_do_seu_jeito_expli">Seja se divertindo numa partida contra bots ou conquistando posições no sistema de ligas, League of Legends tem a tecnologia para parear você rapidamente com um grupo de competidores com o mesmo nível de habilidade</string>
+    <string name="lute_com_honra">Lute com honra</string>
+    <string name="lute_com_honra_expli">Lute com honra e receba comendas especiais de outros jogadores como recompensa pelo espírito esportivo</string>
+    <string name="entre_no_mundo_dos_esports">Entre no mundo dos eSports</string>
+    <string name="entre_no_mundo_dos_esports_expli">League of Legends tem a cena competitiva mais ativa do mundo e conta com diversos torneios, incluindo a prestigiosa Championship Series, em que jogadores profissionais competem por milhões</string>
+    <string name="a_maior_comunidade">A maior comunidade de jogos online do mundo</string>
+    <string name="a_maior_comunidade_expli">Junte-se à maior comunidade de jogos online: faça amigos, forme equipes e enfrente dezenas de milhões de oponentes de países do outro lado do mundo, depois troque experiências no reddit, no YouTube, nos fóruns e onde mais quiser</string>
+    <!--Final página "O que é"-->
 </resources>

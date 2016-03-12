@@ -22,6 +22,12 @@
                 style="@style/texto_caixa_tela_principal"
                 android:text="@string/o_que_e"/>
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0"
+                android:onClick="chamarOQueE"/>
+
         </RelativeLayout>
 
         <!--Segundo slot-->

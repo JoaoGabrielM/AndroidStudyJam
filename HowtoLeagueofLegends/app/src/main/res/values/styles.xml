@@ -39,4 +39,34 @@
         <item name="android:layout_height">match_parent</item>
         <item name="android:alpha">0.5</item>
     </style>
+
+    <!--Estilização dos títulos das subpáginas-->
+    <style name="cabecalho_subpaginas">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+
+    <!--Estilização dos títulos das subpáginas-->
+    <style name="subtitulo_subpaginas">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+
+    <!--Estilização dos textos das subpáginas-->
+    <style name="texto_explicativo_subpaginas">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/activity_horizontal_margin</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
 </resources>
