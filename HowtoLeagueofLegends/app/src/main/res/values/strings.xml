@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">How to, League of Legends</string>
+    <string name="o_que_e">O que é o League of Legends?</string>
+    <string name="quem_criou">Quem criou o League of Legends?</string>
 </resources>

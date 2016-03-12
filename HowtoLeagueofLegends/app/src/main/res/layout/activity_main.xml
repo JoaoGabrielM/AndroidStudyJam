@@ -9,30 +9,51 @@
     <LinearLayout
         style="@style/linhas_tela_pricipal">
 
-        <LinearLayout
+        <RelativeLayout
+            style="@style/divisoes_tela_principal"
+            android:background="#222011EC">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/league_of_legends_logo_l"
+                android:alpha="0.5"/>
+
+            <TextView
+                style="@style/texto_caixa_tela_principal"
+                android:text="@string/o_que_e"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
             style="@style/divisoes_tela_principal">
 
-        </LinearLayout>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/riot_games_logo"
+                android:alpha="0.5"/>
 
-        <LinearLayout
-            style="@style/divisoes_tela_principal">
+            <TextView
+                style="@style/texto_caixa_tela_principal"
+                android:text="@string/quem_criou"/>
 
-        </LinearLayout>
+        </RelativeLayout>
 
     </LinearLayout>
 
     <LinearLayout
         style="@style/linhas_tela_pricipal">
 
-        <LinearLayout
+        <RelativeLayout
             style="@style/divisoes_tela_principal">
 
-        </LinearLayout>
+        </RelativeLayout>
 
-        <LinearLayout
+        <RelativeLayout
             style="@style/divisoes_tela_principal">
 
-        </LinearLayout>
+        </RelativeLayout>
 
     </LinearLayout>
 
