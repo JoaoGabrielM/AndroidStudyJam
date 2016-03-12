@@ -14,10 +14,8 @@
             android:background="#222011EC">
 
             <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:src="@drawable/league_of_legends_logo_l"
-                android:alpha="0.5"/>
+                style="@style/imagem_background"
+                android:src="@drawable/league_of_legends_logo_l"/>
 
             <TextView
                 style="@style/texto_caixa_tela_principal"
@@ -29,10 +27,8 @@
             style="@style/divisoes_tela_principal">
 
             <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:src="@drawable/riot_games_logo"
-                android:alpha="0.5"/>
+                style="@style/imagem_background"
+                android:src="@drawable/riot_games_logo"/>
 
             <TextView
                 style="@style/texto_caixa_tela_principal"
@@ -48,18 +44,42 @@
         <RelativeLayout
             style="@style/divisoes_tela_principal">
 
+            <ImageView
+                style="@style/imagem_background"
+                android:src="@drawable/summoners_rift_mini_mapa"/>
+
+            <TextView
+                style="@style/texto_caixa_tela_principal"
+                android:text="@string/o_mapa"/>
+
         </RelativeLayout>
 
         <RelativeLayout
             style="@style/divisoes_tela_principal">
 
+            <ImageView
+                style="@style/imagem_background"
+                android:src="@drawable/monstros_summoners_rift"/>
+
+            <TextView
+                style="@style/texto_caixa_tela_principal"
+                android:text="@string/monstros_mapa_principal"/>
+
         </RelativeLayout>
 
     </LinearLayout>
 
-    <LinearLayout
+    <RelativeLayout
         style="@style/linhas_tela_pricipal">
 
-    </LinearLayout>
+        <ImageView
+            style="@style/imagem_background"
+            android:src="@drawable/treeline_mini_map"/>
+
+        <TextView
+            style="@style/texto_caixa_tela_principal"
+            android:text="@string/mapas_alternativos"/>
+
+    </RelativeLayout>
 
 </LinearLayout>

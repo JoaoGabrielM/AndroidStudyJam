@@ -2,4 +2,7 @@
     <string name="app_name">How to, League of Legends</string>
     <string name="o_que_e">O que é o League of Legends?</string>
     <string name="quem_criou">Quem criou o League of Legends?</string>
+    <string name="o_mapa">Como funciona o mapa principal?</string>
+    <string name="monstros_mapa_principal">Quais são os monstros?</string>
+    <string name="mapas_alternativos">Mapas alternativos</string>
 </resources>
