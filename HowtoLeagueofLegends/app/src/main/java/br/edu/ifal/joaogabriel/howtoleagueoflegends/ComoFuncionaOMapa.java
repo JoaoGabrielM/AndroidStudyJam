@@ -8,6 +8,6 @@ public class ComoFuncionaOMapa extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_como_funciona_omapa);
+        setContentView(R.layout.activity_como_funciona_o_mapa);
     }
 }

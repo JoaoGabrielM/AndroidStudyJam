@@ -26,4 +26,11 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(it);
     }
+
+    //Chamada quando o usuario clicar na opcao "Como funciona o mapa"
+    public void chamarOMapa(View view){
+        Intent it = new Intent(this, ComoFuncionaOMapa.class);
+
+        startActivity(it);
+    }
 }

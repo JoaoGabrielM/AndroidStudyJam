@@ -35,4 +35,18 @@
     <string name="continue_faminto">CONTINUE FAMINTO, CONTINUE HUMILDE</string>
     <string name="continue_faminto_expli">Somos "humilciosos"; humildes, mas ambiciosos. A ambição cura o transtorno de não-inventado-aqui e outras patologias de complacência corporativa. Planos pequenos simplesmente não dispõem de magia. A ambição por si só torna-se indesejável rapidamente, então humildade também é necessária. Permanecemos abertos a opiniões e nunca nos esquecemos de nossas famílias, colegas de equipe, parceiros e (especialmente) dos jogadores que fazem tudo isso ser possível.</string>
     <!--Final página "Quem criou"-->
+
+    <!--Texto página "Como funciona o mapa principal"-->
+    <string name="defender_e_destruir">Defender e destruir</string>
+    <string name="defender_e_destruir_expli">O estandarte dourado do League of Legends competitivo. A ação em Summoner\'s Rift normalmente progride em fases únicas, começando com duelos de menor escala entre oponentes de rota antes de culminarem em confrontos de equipe grandes e épicos. Avance em direção à base inimiga, destrua o nexus do inimigo e conquiste a vitória!</string>
+    <string name="a_batalha_pela_fenda">A batalha pela Fenda</string>
+    <string name="a_batalha_pela_fenda_expli">Summoner\'s Rift, o maior mapa de League of Legends, é espelhado diagonalmente e dispõe de três rotas que vão em direção à base inimiga. Cada rota é defendida por três torres e um inibidor enquanto o nexus é protegido por um par de torres. Ambos os lados do mapa têm uma selva grande que proporciona efeitos poderosos. O rio central é o lar de dois monstros-chefe e do Aronguejo, que dá benefícios a ambas as equipes.</string>
+    <string name="terreno_neutro">Terreno Neutro</string>
+    <string name="a_selva">A selva</string>
+    <string name="a_selva_expli">As áreas espelhadas de Summoner\'s Rift contêm, cada uma, diversos acampamentos de monstros menores que concedem poderes únicos quando o feitiço de invocador "Golpear" é usado neles, além de um par de monstros mais poderosos que fortalecem o campeão que os abaterem por mais tempo. Gerenciar os efeitos da selva é essencial para maximizar o desempenho no campo de batalha, então tenha atenção para inimigos que perceber entrando na sua selva. Se bobear, ele pode roubar seus efeitos!</string>
+    <string name="o_dragao">O Dragão</string>
+    <string name="o_dragao_expli">Localizado no rio, próximo à rota inferior, este monstro neutro costuma ser melhor enfrentado em grupo. Derrotar o Dragão concede um efeito permanente e cumulativo chamado "Matador de Dragões", com efeitos muito poderosos ao acumular cinco abates. O dragão também causa dano adicional e recebe menos dano de oponentes que tiverem mais acúmulos do efeito Matador de Dragões.</string>
+    <string name="barao_nashor">Barão Nashor</string>
+    <string name="barao_nashor_expli">Este monstro perigoso vive em seu esconderijo no rio, próximo à rota superior. Uma luta difícil até mesmo para cinco campeões bem equipados, o Barão Na\'Shor é a batalha neutra mais desafiante de League of Legends. Derrotar este monstro gigante concede o poderosíssimo efeito "Mão do Barão" a todos os campeões vivos.</string>
+    <!--Texto página "Como funciona o mapa principal"-->
 </resources>

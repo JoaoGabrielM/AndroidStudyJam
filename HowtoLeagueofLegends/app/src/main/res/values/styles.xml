@@ -50,8 +50,18 @@
         <item name="android:layout_marginBottom">16dp</item>
     </style>
 
-    <!--Estilização dos títulos das subpáginas-->
+    <!--Estilização dos subtítulos das subpáginas-->
     <style name="subtitulo_subpaginas">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+    <!--Estilização dos subsubtítulos das subpáginas-->
+    <style name="subsubtitulo_subpaginas">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textStyle">italic</item>

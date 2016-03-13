@@ -30,4 +30,15 @@
     <string name="levamos_jogo_a_serio_expli">It’s never just a game.  We play lots of games and proudly call ourselves gamers. Even at work, we make time for daily play and fun.  We’re professionals, but don’t take ourselves too seriously. </string>
     <string name="continue_faminto">STAY HUNGRY, STAY HUMBLE</string>
     <string name="continue_faminto_expli">We strive to be humbitious – ambitious and humble.  Complacency kills innovation, but ambition kills complacency.  We humbly seek and accept feedback.  We credit the larger team: the families, teammates and players who make it all possible.  And we believe there’s always more we can do for players.</string>
+    <string name="defender_e_destruir">Defend and Destroy</string>
+    <string name="defender_e_destruir_expli">The gold standard for competitive League of Legends. Action on Summoner\'s Rift often progresses in unique phases, beginning with small-scale duels between lane opponents before culminating in epic, large-scale team fights. Push your way into the opposing base, destroy the enemy nexus, and achieve victory!</string>
+    <string name="a_batalha_pela_fenda">The Battle for the Rift</string>
+    <string name="a_batalha_pela_fenda_expli">The largest map in League of Legends, Summoner\'s Rift is mirrored diagonally and features three lanes into the enemy base. Each lane is defended by three turrets and an inhibitor, while the nexus is protected by a pair of turrets. Both sides of the map boast expansive jungles containing powerful buffs, and the central river is home to two boss monsters and a scuttle crab that provide team-wide benefits.</string>
+    <string name="terreno_neutro">Neutral Ground</string>
+    <string name="a_selva">The Jungle</string>
+    <string name="a_selva_expli">The mirrored jungle areas on Summoner\'s Rift each contain several lesser monster camps that grant unique powers when the summoner spell \'Smite\' is used on them, along with a pair of more powerful monsters that buff the slaying champion for a longer duration. Managing your jungle buffs is essential to maximizing performance on the battlefield, so be wary of any enemy you spot entering your jungle. If you\'re not careful, you may find he\'s stolen your buffs!</string>
+    <string name="o_dragao">The Dragon</string>
+    <string name="o_dragao_expli">Located in the river near bottom lane, this neutral monster is usually best handled as a group. Defeating the dragon grants a permanent stacking "Dragon Slayer" buff, with a massive bonus granted at 5 dragons slain. The dragon also gains bonus damage and takes less damage from opponents who have higher stacks of the Dragon Slayer buff.</string>
+    <string name="barao_nashor">Baron Nashor</string>
+    <string name="barao_nashor_expli">This dangerous monster makes his lair in the river near top lane. A hard fight, even for five well-equipped champions, Baron Nashor is the most challenging neutral encounter in League of Legends. Defeating this massive wyrm grants the massively powerful \'Hand of Baron\' buff to all living champions.</string>
 </resources>
