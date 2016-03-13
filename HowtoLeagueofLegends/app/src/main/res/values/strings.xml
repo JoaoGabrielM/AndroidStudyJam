@@ -5,6 +5,7 @@
     <string name="o_mapa">Como funciona o mapa principal?</string>
     <string name="monstros_mapa_principal">Quais são os monstros?</string>
     <string name="mapas_alternativos">Mapas alternativos</string>
+
     <!--Texto página "O que é"-->
     <string name="texto_o_que_e">League of Legends é um jogo online competitivo que mistura a velocidade e a intensidade de um RTS com elementos de RPG. Duas equipes de poderosos campeões, cada um com design e estilo único, lutam em diversos campos de batalha e modos de jogo. Com um elenco de campeões em constante expansão, atualizações frequentes e uma cena competitiva exuberante, League of Legends oferece diversão incessante para jogadores de todos os níveis de habilidade.</string>
     <string name="lute_mano_a_mano">Lute mano a mano</string>
@@ -20,4 +21,18 @@
     <string name="a_maior_comunidade">A maior comunidade de jogos online do mundo</string>
     <string name="a_maior_comunidade_expli">Junte-se à maior comunidade de jogos online: faça amigos, forme equipes e enfrente dezenas de milhões de oponentes de países do outro lado do mundo, depois troque experiências no reddit, no YouTube, nos fóruns e onde mais quiser</string>
     <!--Final página "O que é"-->
+
+    <!--Texto página "Quem criou"-->
+    <string name="riot_games">Riot foi fundada em 2006 por gamers empreendedores convictos de que o desenvolvimento de jogos focado nos jogadores pode resultar em excelentes títulos. Em 2009 a Riot lançou seu jogo League of Legends, aclamado  pela crítica e público. Sendo o maior jogo online de PC do mundo, mais de 67 milhões o jogam todos os meses. Os jogadores que formam os alicerces de nossa comunidade e é para eles que continuamos a evoluir e aprimorar a experiência de League of Legends.</string>
+    <string name="a_experiencia_primeiro_lugar">A EXPERIÊNCIA DO JOGADOR EM PRIMEIRO LUGAR</string>
+    <string name="a_experiencia_primeiro_lugar_expli">Nossa obsessão gira em torno da experiência completa do jogador, desde a primeira partida de um novato até a milésima partida de um veterano, desde a instalação, gerenciamento de partidas até eSports televisionados. Tudo é importante. Nós ouvimos o que os jogadores nos dizem online e offline, através de palavras e comportamento. Nós analisamos profundamente. E nós agimos – sempre com o objetivo final de melhorar a experiência completa do jogador.</string>
+    <string name="quebre_paradigmas">QUEBRE PARADIGMAS</string>
+    <string name="quebre_paradigmas_expli">"Impossível" é o nosso tipo preferido de desafio. Nós cultivamos um desrespeito saudável pelas regras, por enxergar diferentemente as coisas e por arremessar pedras no status quo.</string>
+    <string name="foco_no_talento">FOCO NO TALENTO E NA EQUIPE</string>
+    <string name="foco_no_talento_expli">Nós atraímos, desenvolvemos e cultivamos equipes que  detonam. Funcionamos de maneira mais parecida com um time de esportes  a uma família. Como? Juntamos times com talento e os deixamos livres para exercer empreendedorismo, julgamento e predisposição para agir sobre o processo e a burocracia.</string>
+    <string name="levamos_jogo_a_serio">LEVAMOS JOGO A SÉRIO</string>
+    <string name="levamos_jogo_a_serio_expli">Não é nunca "apenas um jogo". Jogamos muitos jogos, especialmente o nosso. O dia de todos na Riot começa com uma partida. Tentamos fazer disto um hábito diário. Embora sejamos profissionais sérios, não levamos nós mesmos muito a sério. Seja com memes em apresentações, armas de espirrar água em reuniões, ou as LAN Houses construídas no centro de nossos novos escritórios, sempre há um momento para descontrairmos e nos divertirmos.</string>
+    <string name="continue_faminto">CONTINUE FAMINTO, CONTINUE HUMILDE</string>
+    <string name="continue_faminto_expli">Somos "humilciosos"; humildes, mas ambiciosos. A ambição cura o transtorno de não-inventado-aqui e outras patologias de complacência corporativa. Planos pequenos simplesmente não dispõem de magia. A ambição por si só torna-se indesejável rapidamente, então humildade também é necessária. Permanecemos abertos a opiniões e nunca nos esquecemos de nossas famílias, colegas de equipe, parceiros e (especialmente) dos jogadores que fazem tudo isso ser possível.</string>
+    <!--Final página "Quem criou"-->
 </resources>

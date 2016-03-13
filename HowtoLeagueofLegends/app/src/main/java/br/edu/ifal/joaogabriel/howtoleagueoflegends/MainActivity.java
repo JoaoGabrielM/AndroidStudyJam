@@ -15,7 +15,14 @@ public class MainActivity extends AppCompatActivity {
 
     //Chamada quando o usuario clicar na opcao "O que e"
     public void chamarOQueE(View view){
-        Intent it = new Intent(this, o_que_e.class);
+        Intent it = new Intent(this, OQueE.class);
+
+        startActivity(it);
+    }
+
+    //Chamada quando o usuario clicar na opcao "Quem Criou"
+    public void chamarQuemCriou(View view){
+        Intent it = new Intent(this, QuemCriou.class);
 
         startActivity(it);
     }

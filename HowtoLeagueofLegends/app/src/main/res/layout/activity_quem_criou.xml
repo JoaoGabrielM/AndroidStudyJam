@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="@dimen/activity_vertical_margin"
-    tools:context=".OQueE">
+    tools:context=".QuemCriou">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -13,65 +13,56 @@
 
         <TextView
             style="@style/cabecalho_subpaginas"
-            android:text="@string/o_que_e"/>
+            android:text="@string/quem_criou"/>
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="150dp"
-            android:src="@drawable/league_of_legends_logo_completo"/>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/riot_games_logo_completo"/>
 
-        <!--Texto explicando o que é o jogo-->
         <TextView
             style="@style/texto_explicativo_subpaginas"
-            android:text="@string/texto_o_que_e"/>
+            android:text="@string/riot_games"/>
 
         <TextView
             style="@style/subtitulo_subpaginas"
-            android:text="@string/lute_mano_a_mano"/>
+            android:text="@string/a_experiencia_primeiro_lugar"/>
 
         <TextView
             style="@style/texto_explicativo_subpaginas"
-            android:text="@string/lute_mano_a_mano_expli"/>
+            android:text="@string/a_experiencia_primeiro_lugar_expli"/>
 
         <TextView
             style="@style/subtitulo_subpaginas"
-            android:text="@string/crie_estrategias_e_evolua"/>
+            android:text="@string/quebre_paradigmas"/>
 
         <TextView
             style="@style/texto_explicativo_subpaginas"
-            android:text="@string/crie_estrategias_e_evolua_expli"/>
+            android:text="@string/quebre_paradigmas_expli"/>
 
         <TextView
             style="@style/subtitulo_subpaginas"
-            android:text="@string/competicao_do_seu_jeito"/>
+            android:text="@string/foco_no_talento"/>
 
         <TextView
             style="@style/texto_explicativo_subpaginas"
-            android:text="@string/competicao_do_seu_jeito_expli"/>
-        
-        <TextView
-            style="@style/subtitulo_subpaginas"
-            android:text="@string/lute_com_honra"/>
-
-        <TextView
-            style="@style/texto_explicativo_subpaginas"
-            android:text="@string/lute_com_honra_expli"/>
+            android:text="@string/foco_no_talento_expli"/>
 
         <TextView
             style="@style/subtitulo_subpaginas"
-            android:text="@string/entre_no_mundo_dos_esports"/>
+            android:text="@string/levamos_jogo_a_serio"/>
 
         <TextView
             style="@style/texto_explicativo_subpaginas"
-            android:text="@string/entre_no_mundo_dos_esports_expli"/>
+            android:text="@string/levamos_jogo_a_serio_expli"/>
 
         <TextView
             style="@style/subtitulo_subpaginas"
-            android:text="@string/a_maior_comunidade"/>
+            android:text="@string/continue_faminto"/>
 
         <TextView
             style="@style/texto_explicativo_subpaginas"
-            android:text="@string/a_maior_comunidade_expli"/>
+            android:text="@string/continue_faminto_expli"/>
     </LinearLayout>
 
 </ScrollView>

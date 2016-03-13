@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".o_que_e"></activity>
+        <activity android:name=".OQueE" />
+        <activity android:name=".QuemCriou" />
+        <activity android:name=".ComoFuncionaOMapa"></activity>
     </application>
 
 </manifest>

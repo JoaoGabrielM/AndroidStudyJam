@@ -19,4 +19,15 @@
     <string name="lute_com_honra_expli">Compete with honor and receive special commendations from your peers to reward your good sportsmanship</string>
     <string name="lute_mano_a_mano">Battle Head-to-Head</string>
     <string name="lute_mano_a_mano_expli">Combine strategic thinking, lightning reflexes and coordinated team-play to crush your enemies in both small-scale skirmishes and intense 5v5 battles</string>
+    <string name="riot_games">We aspire to be the most player-focused game company in the world. We were established in 2006 by a couple of entrepreneurial gamers who believe player-focused game development can result in awesome games. In 2009, we released our debut title, League of Legends, to critical and player acclaim. Over 67 million play every month.  We know players form the foundation of our community and it’s for them that we continue to evolve and improve the League of Legends experience.</string>
+    <string name="a_experiencia_primeiro_lugar">PLAYER EXPERIENCE FIRST</string>
+    <string name="a_experiencia_primeiro_lugar_expli">We obsess over every part of the experience, from a player’s first game to their thousandth win, from installation to support to esports broadcasts. It all matters.  We listen to what players say and do. We analyze. Then we make data-informed decisions to improve the experience. </string>
+    <string name="quebre_paradigmas">CHALLENGE CONVENTION</string>
+    <string name="quebre_paradigmas_expli">Impossible’s our favorite kind of possible.  Doing the right thing often requires disregarding the rules and upending the status quo.</string>
+    <string name="foco_no_talento">FOCUS ON TALENT AND TEAM</string>
+    <string name="foco_no_talento_expli">We attract, develop, and cultivate entrepreneurial teams who prefer action over process and bureaucracy.  We’re a sports team, not a family.  As a meritocracy, we value results delivered.</string>
+    <string name="levamos_jogo_a_serio">TAKE PLAY SERIOUSLY</string>
+    <string name="levamos_jogo_a_serio_expli">It’s never just a game.  We play lots of games and proudly call ourselves gamers. Even at work, we make time for daily play and fun.  We’re professionals, but don’t take ourselves too seriously. </string>
+    <string name="continue_faminto">STAY HUNGRY, STAY HUMBLE</string>
+    <string name="continue_faminto_expli">We strive to be humbitious – ambitious and humble.  Complacency kills innovation, but ambition kills complacency.  We humbly seek and accept feedback.  We credit the larger team: the families, teammates and players who make it all possible.  And we believe there’s always more we can do for players.</string>
 </resources>

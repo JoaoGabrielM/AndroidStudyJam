@@ -42,6 +42,12 @@
                 style="@style/texto_caixa_tela_principal"
                 android:text="@string/quem_criou"/>
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0"
+                android:onClick="chamarQuemCriou"/>
+
         </RelativeLayout>
 
     </LinearLayout>
