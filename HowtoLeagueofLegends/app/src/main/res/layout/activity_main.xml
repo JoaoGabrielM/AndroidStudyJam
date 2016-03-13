@@ -88,6 +88,12 @@
                 style="@style/texto_caixa_tela_principal"
                 android:text="@string/monstros_mapa_principal"/>
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0"
+                android:onClick="chamarOsMonstros"/>
+
         </RelativeLayout>
 
     </LinearLayout>
@@ -103,6 +109,12 @@
         <TextView
             style="@style/texto_caixa_tela_principal"
             android:text="@string/mapas_alternativos"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0"
+            android:onClick="chamarMapasAlternativos"/>
 
     </RelativeLayout>
 

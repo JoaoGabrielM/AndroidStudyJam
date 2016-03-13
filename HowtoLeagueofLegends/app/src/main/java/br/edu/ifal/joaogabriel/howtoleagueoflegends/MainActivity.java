@@ -33,4 +33,18 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(it);
     }
+
+    //Chamada quando o usuario clicar na opcao "Quais sao os monstrons"
+    public void chamarOsMonstros(View view){
+        Intent it = new Intent(this, QuaisSaoOsMonstros.class);
+
+        startActivity(it);
+    }
+
+    //Chamada quando o usuario clicar na opcao "Mapas alternativos"
+    public void chamarMapasAlternativos(View view){
+        Intent it = new Intent(this, MapasAlternativos.class);
+
+        startActivity(it);
+    }
 }

@@ -48,5 +48,27 @@
     <string name="o_dragao_expli">Localizado no rio, próximo à rota inferior, este monstro neutro costuma ser melhor enfrentado em grupo. Derrotar o Dragão concede um efeito permanente e cumulativo chamado "Matador de Dragões", com efeitos muito poderosos ao acumular cinco abates. O dragão também causa dano adicional e recebe menos dano de oponentes que tiverem mais acúmulos do efeito Matador de Dragões.</string>
     <string name="barao_nashor">Barão Nashor</string>
     <string name="barao_nashor_expli">Este monstro perigoso vive em seu esconderijo no rio, próximo à rota superior. Uma luta difícil até mesmo para cinco campeões bem equipados, o Barão Na\'Shor é a batalha neutra mais desafiante de League of Legends. Derrotar este monstro gigante concede o poderosíssimo efeito "Mão do Barão" a todos os campeões vivos.</string>
-    <!--Texto página "Como funciona o mapa principal"-->
+    <!--Final página "Como funciona o mapa principal"-->
+
+    <!--Texto página "Quais são os monstros"-->
+    <string name="onde_se_localiza">Onde ele fica no mapa?</string>
+    <string name="trevoguaris">Trevoguaris</string>
+    <string name="acuaminas">Acuâminas</string>
+    <string name="grompe">Grompe</string>
+    <string name="krugues">Krugues</string>
+    <string name="rubrivira">Rubrivira</string>
+    <string name="azupora">Azuporã</string>
+    <string name="aronguejo">Aronguejo</string>
+    <!--Final página "Quais são os monstros"-->
+
+    <!--Texto página "Mapas alternativos"-->
+    <string name="twisted_treeline" translatable="false">Twisted Treeline</string>
+    <string name="defender_e_destruir_expli_tt">Twisted Treeline, o segundo mapa clássico de League of Legends, costuma apresentar partidas mais rápidas e sangrentas, com ênfase em emboscadas e conflitos menores. Para sair vitorioso, você precisa abrir caminho até a base adversária e destruir o nexus inimigo.</string>
+    <string name="a_batalha">A batalha pela Ilha das Sombras</string>
+    <string name="a_batalha_expli">Um mapa menor que Summoner’s Rift, Twisted Treeline tem configuração horizontal, com duas rotas flanqueando uma área neutra. Duas torres estão posicionadas ao lado de cada rota, e o nexus é defendido por uma única torre. Cada equipe é composta de três campeões, e cada campeão surge no nível 3 com uma quantidade considerável de ouro. O tamanho reduzido do mapa e a curva de nível acelerada resultam em um jogo de menor duração e maior contagem de abates.</string>
+    <string name="howling_abyss" translatable="false">Howling Abyss</string>
+    <string name="defender_e_destruir_expli_ha">O que começou como um movimento da comunidade se desenvolveu rapidamente em um dos modos de jogo mais populares de League of Legends hoje em dia. Howling Abyss (ou Ponte das Batalhas Sangrentas como gostamos de chamar) coloca duas equipes de cinco campeões em combate por uma única rota sem território neutro. Os campeões começam a partida no nível 3 com uma quantia considerável de Ouro, colocando-os em ação imediatamente em batalhas grandes de equipes inteiras, abates instantâneos e escapadas por um triz.</string>
+    <string name="a_batalha_pelo_abismo">A batalha pelo Abismo</string>
+    <string name="a_batalha_pelo_abismo_expli">O único campo de batalha de uma rota disponível em League of Legends, Howling Abyss tem duas bases posicionadas em ambas as extremidades de uma ponte. Essa ponte é defendida por duas torres e um inibidor, embora o nexus seja protegido por um par de torres. Sem território neutro para lhe distrair da tarefa principal, Howling Abyss proporciona alguns dos confrontos em equipe mais frequentes e intensos de qualquer mapa.</string>
+    <!--Final página "Mapas alternativos"-->
 </resources>

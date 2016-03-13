@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin"
+    tools:context="br.edu.ifal.joaogabriel.howtoleagueoflegends.QuaisSaoOsMonstros">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        
+        <TextView
+            style="@style/cabecalho_subpaginas"
+            android:text="@string/monstros_mapa_principal"/>
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/jungle_summoners_rift"/>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/trevoguaris"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/trevoguaris"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/trevoguaris_localizacao"/>
+        </LinearLayout>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/acuaminas"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/acuaminas"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/acuaminas_localizacao"/>
+        </LinearLayout>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/grompe"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/grompe"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/grompe_localizacao"/>
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/krugues"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/krugues"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/krugues_localizacao"/>
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/rubrivira"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/rubrivira"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/rubrivira_localizacao"/>
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/azupora"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/azupora"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/azupora_localizacao"/>
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/subtitulo_subpaginas"
+            android:text="@string/aronguejo"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/aronguejo"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/subsubtitulo_subpaginas"
+                android:text="@string/onde_se_localiza"
+                android:layout_weight="1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/aronguejo_localizacao"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">How to, League of Legends</string>
     <string name="mapas_alternativos">Alternative maps</string>
     <string name="o_que_e">What is League of Legends?</string>
     <string name="monstros_mapa_principal">What are the monsters?</string>
@@ -41,4 +40,18 @@
     <string name="o_dragao_expli">Located in the river near bottom lane, this neutral monster is usually best handled as a group. Defeating the dragon grants a permanent stacking "Dragon Slayer" buff, with a massive bonus granted at 5 dragons slain. The dragon also gains bonus damage and takes less damage from opponents who have higher stacks of the Dragon Slayer buff.</string>
     <string name="barao_nashor">Baron Nashor</string>
     <string name="barao_nashor_expli">This dangerous monster makes his lair in the river near top lane. A hard fight, even for five well-equipped champions, Baron Nashor is the most challenging neutral encounter in League of Legends. Defeating this massive wyrm grants the massively powerful \'Hand of Baron\' buff to all living champions.</string>
+    <string name="acuaminas">Raptors</string>
+    <string name="aronguejo">Rift Scuttler</string>
+    <string name="azupora">Ancient Sentinel</string>
+    <string name="grompe">Gromp</string>
+    <string name="krugues">Krugs</string>
+    <string name="rubrivira">Brambleback</string>
+    <string name="trevoguaris">Murkwolves</string>
+    <string name="onde_se_localiza">Where is it on the map?</string>
+    <string name="a_batalha">The Battle for the Shadow Isles</string>
+    <string name="a_batalha_expli">A smaller map than Summoner’s Rift, the Twisted Treeline is configured horizontally, with two lanes flanking a neutral area. Two turrets are placed along the length of each lane, and the nexus is defended by a single turret. Teams are composed of three champions apiece, and each champion spawns with a substantial sum of gold. The reduced map size and accelerated level curve makes for a shorter game length and higher kill scores.</string>
+    <string name="a_batalha_pelo_abismo">The Battle for the Abyss</string>
+    <string name="a_batalha_pelo_abismo_expli">The only single-lane battlefield available in League of Legends, the Howling Abyss features two bases arranged at either end of a bridge. This bridge is defended by two turrets and an inhibitor, while the nexus is protected by a pair of turrets. With no neutral territory to distract from the task at hand, the Howling Abyss features some of the most frequent and intense team fights of any map.</string>
+    <string name="defender_e_destruir_expli_ha">What started as a community movement has quickly developed into one of the most popular game modes in League of Legends today. The Howling Abyss (or Murder Bridge as it’s been lovingly dubbed) features two teams of five champions battling along a single lane with no neutral territory. Champions begin play at level 3 with substantial starting gold, launching the action immediately into a pitched battle of large, drawn out team fights, instant kills and narrow escapes.</string>
+    <string name="defender_e_destruir_expli_tt">The second classic League of Legends map, the Twisted Treeline typically features faster, bloodier matches with an emphasis on ganking and small scale skirmishes. You achieve victory by pushing your way into the opposing base and destroying the enemy nexus.</string>
 </resources>

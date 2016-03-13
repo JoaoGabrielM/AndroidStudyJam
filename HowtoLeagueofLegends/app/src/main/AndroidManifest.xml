@@ -17,7 +17,9 @@
         </activity>
         <activity android:name=".OQueE" />
         <activity android:name=".QuemCriou" />
-        <activity android:name=".ComoFuncionaOMapa"></activity>
+        <activity android:name=".ComoFuncionaOMapa" />
+        <activity android:name=".QuaisSaoOsMonstros" />
+        <activity android:name=".MapasAlternativos"></activity>
     </application>
 
 </manifest>
