@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //Habilitação do botão voltar nas views filhas
+        getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
     }
 
     //Chamada quando o usuario clicar na opcao "O que e"
