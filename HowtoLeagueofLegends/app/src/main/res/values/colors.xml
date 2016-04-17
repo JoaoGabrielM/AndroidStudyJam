@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#04168f</color>
     <color name="colorAccent">#ea0f08</color>
     <color name="background_material_light">#cfedd6</color>
+    <color name="primeiro_quadrante">#bf0006</color>
+    <color name="segundo_quadrante">#000094</color>
+    <color name="terceiro_quadrante">#9e2525</color>
+    <color name="quarto_quadrante">#1e1e93</color>
 </resources>

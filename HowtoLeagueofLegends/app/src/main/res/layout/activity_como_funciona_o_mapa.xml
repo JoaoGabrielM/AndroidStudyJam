@@ -42,19 +42,6 @@
 
         <TextView
             style="@style/subsubtitulo_subpaginas"
-            android:text="@string/a_selva"/>
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:src="@drawable/a_selva"/>
-
-        <TextView
-            style="@style/texto_explicativo_subpaginas"
-            android:text="@string/a_selva_expli"/>
-
-        <TextView
-            style="@style/subsubtitulo_subpaginas"
             android:text="@string/o_dragao"/>
 
         <ImageView
@@ -78,6 +65,12 @@
         <TextView
             style="@style/texto_explicativo_subpaginas"
             android:text="@string/barao_nashor_expli"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/proxima_pagina"
+            android:onClick="chamarProximaPagina"/>
     </LinearLayout>
 
 </ScrollView>

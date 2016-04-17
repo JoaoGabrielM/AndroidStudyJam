@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    tools:context="br.edu.ifal.joaogabriel.howtoleagueoflegends.Quadrantes">
+
+    <TextView
+        style="@style/subsubtitulo_subpaginas"
+        android:text="@string/a_selva"
+        android:id="@+id/aSelva" />
+
+    <TextView
+        style="@style/texto_explicativo_subpaginas"
+        android:text="@string/a_selva_expli"
+        android:layout_below="@+id/imagemSelva" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/aSelva"
+        android:id="@+id/imagemSelva">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/mapa_quadrantes" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal"
+            android:id="@+id/layout_superior">
+
+            <RelativeLayout
+                android:layout_width="188dp"
+                android:layout_height="150dp">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/primeiro_quadrante"
+                    android:alpha="0.5"
+                    android:text="1"/>
+
+                <TextView
+                    style="@style/texto_caixa_a_selva"
+                    android:text="1"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="188dp"
+                android:layout_height="150dp">
+
+                <Button
+                    android:layout_width="188dp"
+                    android:layout_height="150dp"
+                    android:background="@color/segundo_quadrante"
+                    android:alpha="0.5"/>
+
+                <TextView
+                    style="@style/texto_caixa_a_selva"
+                    android:text="2"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal"
+            android:layout_below="@+id/layout_superior">
+
+            <RelativeLayout
+                android:layout_width="188dp"
+                android:layout_height="150dp">
+
+                <Button
+                    android:layout_width="188dp"
+                    android:layout_height="150dp"
+                    android:background="@color/quarto_quadrante"
+                    android:alpha="0.5"/>
+
+                <TextView
+                    style="@style/texto_caixa_a_selva"
+                    android:text="4"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="188dp"
+                android:layout_height="150dp">
+
+                <Button
+                    android:layout_width="188dp"
+                    android:layout_height="150dp"
+                    android:background="@color/terceiro_quadrante"
+                    android:alpha="0.5"/>
+
+                <TextView
+                    style="@style/texto_caixa_a_selva"
+                    android:text="3"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
