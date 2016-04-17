@@ -55,7 +55,36 @@
             android:parentActivityName=".ComoFuncionaOMapa">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ComoFuncionaOMapa" /></activity>
+                android:value=".ComoFuncionaOMapa" />
+        </activity>
+        <activity
+            android:name=".PrimeiroQuadrante"
+            android:parentActivityName=".Quadrantes">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Quadrantes" />
+        </activity>
+        <activity
+            android:name=".SegundoQuadrante"
+            android:parentActivityName=".Quadrantes">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Quadrantes" />
+        </activity>
+        <activity
+            android:name=".TerceiroQuadrante"
+            android:parentActivityName=".Quadrantes">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Quadrantes" />
+        </activity>
+        <activity
+            android:name=".QuartoQuadrante"
+            android:parentActivityName=".Quadrantes">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Quadrantes" />
+        </activity>
     </application>
 
 </manifest>

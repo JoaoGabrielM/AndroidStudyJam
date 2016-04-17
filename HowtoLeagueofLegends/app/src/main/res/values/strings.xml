@@ -42,7 +42,8 @@
     <string name="defender_e_destruir_expli">O estandarte dourado do League of Legends competitivo. A ação em Summoner\'s Rift normalmente progride em fases únicas, começando com duelos de menor escala entre oponentes de rota antes de culminarem em confrontos de equipe grandes e épicos. Avance em direção à base inimiga, destrua o nexus do inimigo e conquiste a vitória!</string>
     <string name="a_batalha_pela_fenda">A batalha pela Fenda</string>
     <string name="a_batalha_pela_fenda_expli">Summoner\'s Rift, o maior mapa de League of Legends, é espelhado diagonalmente e dispõe de três rotas que vão em direção à base inimiga. Cada rota é defendida por três torres e um inibidor enquanto o nexus é protegido por um par de torres. Ambos os lados do mapa têm uma selva grande que proporciona efeitos poderosos. O rio central é o lar de dois monstros-chefe e do Aronguejo, que dá benefícios a ambas as equipes.</string>
-    <string name="terreno_neutro">Terreno Neutro</string><string name="o_dragao">O Dragão</string>
+    <string name="terreno_neutro">Terreno Neutro</string>
+    <string name="o_dragao">O Dragão</string>
     <string name="o_dragao_expli">Localizado no rio, próximo à rota inferior, este monstro neutro costuma ser melhor enfrentado em grupo. Derrotar o Dragão concede um efeito permanente e cumulativo chamado "Matador de Dragões", com efeitos muito poderosos ao acumular cinco abates. O dragão também causa dano adicional e recebe menos dano de oponentes que tiverem mais acúmulos do efeito Matador de Dragões.</string>
     <string name="barao_nashor">Barão Nashor</string>
     <string name="barao_nashor_expli">Este monstro perigoso vive em seu esconderijo no rio, próximo à rota superior. Uma luta difícil até mesmo para cinco campeões bem equipados, o Barão Na\'Shor é a batalha neutra mais desafiante de League of Legends. Derrotar este monstro gigante concede o poderosíssimo efeito "Mão do Barão" a todos os campeões vivos.</string>

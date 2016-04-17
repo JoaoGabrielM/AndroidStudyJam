@@ -42,7 +42,7 @@
                     android:layout_height="match_parent"
                     android:background="@color/primeiro_quadrante"
                     android:alpha="0.5"
-                    android:text="1"/>
+                    android:onClick="chamarPrimeiroQuadrante"/>
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
@@ -57,7 +57,8 @@
                     android:layout_width="188dp"
                     android:layout_height="150dp"
                     android:background="@color/segundo_quadrante"
-                    android:alpha="0.5"/>
+                    android:alpha="0.5"
+                    android:onClick="chamarSegundoQuadrante"/>
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
@@ -79,7 +80,8 @@
                     android:layout_width="188dp"
                     android:layout_height="150dp"
                     android:background="@color/quarto_quadrante"
-                    android:alpha="0.5"/>
+                    android:alpha="0.5"
+                    android:onClick="chamarQuartoQuadrante"/>
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
@@ -94,7 +96,8 @@
                     android:layout_width="188dp"
                     android:layout_height="150dp"
                     android:background="@color/terceiro_quadrante"
-                    android:alpha="0.5"/>
+                    android:alpha="0.5"
+                    android:onClick="chamarTerceiroQuadrante"/>
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
