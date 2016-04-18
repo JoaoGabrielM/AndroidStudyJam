@@ -83,5 +83,10 @@
     <string name="segundo_quadrante_parte_1">Já essa, é a parte inferior esquerda do mapa, onde podemos encontrar o Azuporã</string>
     <string name="segundo_quadrante_parte_2">o Gromp</string>
     <string name="segundo_quadrante_parte_3">e os Trevoguaris</string>
+    <string name="terceiro_quadrante">Terceiro quadrante</string>
+    <string name="terceiro_quadrante_parte_1">O terceiro quadrante possui os monstros em suas mesmas localidades, porém espelhado. O monstro que já ficava ao centro, no caso o Rubrivira, continua ao centro</string>
+    <string name="terceiro_quadrante_parte_2">O círculo vermelho representa onde ele está no primeiro quadrante, enquanto o círculo azul mostrar onde ele se localiza no terceiro quadrante</string>
+    <string name="terceiro_quadrante_parte_3">O mesmo acontece com as Acuâminas, o círculo vermelho as representa no primero quadrante, enquanto que o azul, no terceiro quadrante</string>
+    <string name="terceiro_quadrante_parte_4">E aqui vemos a localização dos Krugs</string>
     <!-- final de todas as páginas dos quadrantes -->
 </resources>
