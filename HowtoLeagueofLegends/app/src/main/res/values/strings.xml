@@ -79,5 +79,9 @@
     <string name="primeiro_quadrante_parte_1">Essa é a parte superior esquerda do mapa, aqui você pode encontrar monstros com o Rubrivira</string>
     <string name="primeiro_quadrante_parte_2">os Kruges</string>
     <string name="primeiro_quadrante_parte_3">e até mesmo as acuâminas</string>
+    <string name="segundo_quadrante">Segundo quadrante</string>
+    <string name="segundo_quadrante_parte_1">Já essa, é a parte inferior esquerda do mapa, onde podemos encontrar o Azuporã</string>
+    <string name="segundo_quadrante_parte_2">o Gromp</string>
+    <string name="segundo_quadrante_parte_3">e os Trevoguaris</string>
     <!-- final de todas as páginas dos quadrantes -->
 </resources>
