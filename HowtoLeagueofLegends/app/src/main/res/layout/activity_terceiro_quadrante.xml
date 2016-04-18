@@ -37,6 +37,7 @@
 
             <TextView
                 style="@style/texto_explicativo_subpaginas"
+                android:layout_height="match_parent"
                 android:text="@string/terceiro_quadrante_parte_2"/>
 
         </LinearLayout>
@@ -54,6 +55,7 @@
 
             <TextView
                 style="@style/texto_explicativo_subpaginas"
+                android:layout_height="match_parent"
                 android:text="@string/terceiro_quadrante_parte_3"/>
 
         </LinearLayout>
@@ -71,6 +73,7 @@
 
             <TextView
                 style="@style/texto_explicativo_subpaginas"
+                android:layout_height="match_parent"
                 android:text="@string/terceiro_quadrante_parte_4"/>
 
         </LinearLayout>

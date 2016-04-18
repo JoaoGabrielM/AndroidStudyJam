@@ -6,6 +6,7 @@
     <string name="monstros_mapa_principal">Quais são os monstros?</string>
     <string name="mapas_alternativos">Mapas alternativos</string>
     <string name="proxima_pagina">Próxima página</string>
+    <string name="ir_para_quadrantes">Ir para a página dos quadrantes</string>
 
     <!--Texto página "O que é"-->
     <string name="texto_o_que_e">League of Legends é um jogo online competitivo que mistura a velocidade e a intensidade de um RTS com elementos de RPG. Duas equipes de poderosos campeões, cada um com design e estilo único, lutam em diversos campos de batalha e modos de jogo. Com um elenco de campeões em constante expansão, atualizações frequentes e uma cena competitiva exuberante, League of Legends oferece diversão incessante para jogadores de todos os níveis de habilidade.</string>
@@ -88,5 +89,10 @@
     <string name="terceiro_quadrante_parte_2">O círculo vermelho representa onde ele está no primeiro quadrante, enquanto o círculo azul mostrar onde ele se localiza no terceiro quadrante</string>
     <string name="terceiro_quadrante_parte_3">O mesmo acontece com as Acuâminas, o círculo vermelho as representa no primero quadrante, enquanto que o azul, no terceiro quadrante</string>
     <string name="terceiro_quadrante_parte_4">E aqui vemos a localização dos Krugs</string>
+    <string name="quarto_quadrante">Quarto Quadrante</string>
+    <string name="quarto_quadrante_parte_1">Como ocorre nos primeiro e terceiro quadrantes, o segundo e quarto quadrantes também são espelhados</string>
+    <string name="quarto_quadrante_parte_2">Aqui, mostramos as localizações do Uzuporã, tanto no quarto quanto no segundo quadrante</string>
+    <string name="quarto_quadrante_parte_3">Localização do Grompe nos dois quadrantes</string>
+    <string name="quarto_quadrante_parte_4">E, por último, a localização dos Trevoguaris</string>
     <!-- final de todas as páginas dos quadrantes -->
 </resources>
