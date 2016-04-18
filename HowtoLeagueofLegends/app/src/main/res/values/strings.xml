@@ -73,4 +73,11 @@
     <string name="a_batalha_pelo_abismo_expli">O único campo de batalha de uma rota disponível em League of Legends, Howling Abyss tem duas bases posicionadas em ambas as extremidades de uma ponte. Essa ponte é defendida por duas torres e um inibidor, embora o nexus seja protegido por um par de torres. Sem território neutro para lhe distrair da tarefa principal, Howling Abyss proporciona alguns dos confrontos em equipe mais frequentes e intensos de qualquer mapa.</string>
     <string name="clicar_quadrante">Clique em cada um quadrante para saber mais sobre ele</string>
     <!--Final página "Mapas alternativos"-->
+
+    <!-- Todas as páginas dos quadrantes -->
+    <string name="primeiro_quadrante">Primeiro quadrante</string>
+    <string name="primeiro_quadrante_parte_1">Essa é a parte superior esquerda do mapa, aqui você pode encontrar monstros com o Rubrivira</string>
+    <string name="primeiro_quadrante_parte_2">os Kruges</string>
+    <string name="primeiro_quadrante_parte_3">e até mesmo as acuâminas</string>
+    <!-- final de todas as páginas dos quadrantes -->
 </resources>

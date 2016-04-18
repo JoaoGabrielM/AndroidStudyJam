@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="@dimen/activity_vertical_margin"
     tools:context="br.edu.ifal.joaogabriel.howtoleagueoflegends.PrimeiroQuadrante">
 
-</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/cabecalho_subpaginas"
+            android:text="@string/primeiro_quadrante"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="240dp"
+            android:src="@drawable/primero_quadrante"/>
+
+        <TextView
+            style="@style/texto_explicativo_subpaginas"
+            android:text="@string/primeiro_quadrante_parte_1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="190dp"
+            android:src="@drawable/rubrivira"/>
+
+        <TextView
+            style="@style/texto_explicativo_subpaginas"
+            android:text="@string/primeiro_quadrante_parte_2"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="180dp"
+            android:src="@drawable/krugues"/>
+
+        <TextView
+            style="@style/texto_explicativo_subpaginas"
+            android:text="@string/primeiro_quadrante_parte_3"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/acuaminas"/>
+    </LinearLayout>
+</ScrollView>
