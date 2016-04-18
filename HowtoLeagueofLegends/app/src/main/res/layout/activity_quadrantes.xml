@@ -9,6 +9,7 @@
 
     <TextView
         style="@style/subsubtitulo_subpaginas"
+        android:layout_marginTop="0dp"
         android:text="@string/a_selva"
         android:id="@+id/aSelva" />
 
@@ -46,7 +47,7 @@
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
-                    android:text="1"/>
+                    android:text="4"/>
             </RelativeLayout>
 
             <RelativeLayout
@@ -62,7 +63,7 @@
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
-                    android:text="2"/>
+                    android:text="1"/>
             </RelativeLayout>
         </LinearLayout>
 
@@ -85,7 +86,7 @@
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
-                    android:text="4"/>
+                    android:text="3"/>
             </RelativeLayout>
 
             <RelativeLayout
@@ -101,11 +102,17 @@
 
                 <TextView
                     style="@style/texto_caixa_a_selva"
-                    android:text="3"/>
+                    android:text="2"/>
             </RelativeLayout>
         </LinearLayout>
 
     </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/texto_explicativo_subpaginas"
+        android:text="@string/clicar_quadrante"/>
 
 
 </LinearLayout>
