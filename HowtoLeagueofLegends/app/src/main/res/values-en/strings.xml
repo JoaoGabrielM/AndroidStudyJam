@@ -56,4 +56,23 @@
     <string name="proxima_pagina">Next Page</string>
     <string name="a_selva_expli">We’ve given each of the jungle areas a unique look to help you quickly orient yourself on the map. See broken redwoods? You’re looking at the north jungle. Lush green life? That’ll be the south jungle. Cool blue cairn stones? That’s the east jungle. Withered trees and purple lights? West jungle. Gray screen? You’ve died. Try harder.</string>
     <string name="clicar_quadrante">Click on each quadrant to know more about it</string>
+    <string name="ir_para_quadrantes">Go to page quadrant</string>
+    <string name="primeiro_quadrante">First quadrant</string>
+    <string name="primeiro_quadrante_parte_1">This is the top left of the map, here you can find monsters like Brambleback</string>
+    <string name="primeiro_quadrante_parte_2">The Krugs</string>
+    <string name="primeiro_quadrante_parte_3">and even Raptors</string>
+    <string name="quarto_quadrante">Fourth Quadrant</string>
+    <string name="quarto_quadrante_parte_1">As the first and third quadrants, the second and fourth quadrants are also mirrored</string>
+    <string name="quarto_quadrante_parte_2">Here, we show the locations of the Ancient Sentinel, both in the room and in the second quadrant</string>
+    <string name="quarto_quadrante_parte_3">Grompe location in the two quadrants</string>
+    <string name="quarto_quadrante_parte_4">And lastly, the location of Murkwolves</string>
+    <string name="segundo_quadrante">Second quadrant</string>
+    <string name="segundo_quadrante_parte_1">Since this is the bottom left of the map, where we can find the Ancient Sentinel</string>
+    <string name="segundo_quadrante_parte_2">the Gromp</string>
+    <string name="segundo_quadrante_parte_3">and the Murkwolves</string>
+    <string name="terceiro_quadrante">Third quadrant</string>
+    <string name="terceiro_quadrante_parte_1">The third quadrant has the monsters in their same locations, but mirrored. The monster was already the center in case the Brambleback continues to center</string>
+    <string name="terceiro_quadrante_parte_2">The red circle is where it is in the first quadrant, while the blue circle show where it is located in the third quadrant</string>
+    <string name="terceiro_quadrante_parte_3">The same happens with the Raptors, the red circle is in the primero quadrant, while the blue, in the third quadrant</string>
+    <string name="terceiro_quadrante_parte_4">And here we see the location of Krug</string>
 </resources>

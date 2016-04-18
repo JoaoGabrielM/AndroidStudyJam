@@ -77,7 +77,7 @@
 
     <!-- Todas as páginas dos quadrantes -->
     <string name="primeiro_quadrante">Primeiro quadrante</string>
-    <string name="primeiro_quadrante_parte_1">Essa é a parte superior esquerda do mapa, aqui você pode encontrar monstros com o Rubrivira</string>
+    <string name="primeiro_quadrante_parte_1">Essa é a parte superior esquerda do mapa, aqui você pode encontrar monstros como o Rubrivira</string>
     <string name="primeiro_quadrante_parte_2">os Kruges</string>
     <string name="primeiro_quadrante_parte_3">e até mesmo as acuâminas</string>
     <string name="segundo_quadrante">Segundo quadrante</string>
@@ -88,10 +88,10 @@
     <string name="terceiro_quadrante_parte_1">O terceiro quadrante possui os monstros em suas mesmas localidades, porém espelhado. O monstro que já ficava ao centro, no caso o Rubrivira, continua ao centro</string>
     <string name="terceiro_quadrante_parte_2">O círculo vermelho representa onde ele está no primeiro quadrante, enquanto o círculo azul mostrar onde ele se localiza no terceiro quadrante</string>
     <string name="terceiro_quadrante_parte_3">O mesmo acontece com as Acuâminas, o círculo vermelho as representa no primero quadrante, enquanto que o azul, no terceiro quadrante</string>
-    <string name="terceiro_quadrante_parte_4">E aqui vemos a localização dos Krugs</string>
+    <string name="terceiro_quadrante_parte_4">E aqui vemos a localização dos Krugues</string>
     <string name="quarto_quadrante">Quarto Quadrante</string>
     <string name="quarto_quadrante_parte_1">Como ocorre nos primeiro e terceiro quadrantes, o segundo e quarto quadrantes também são espelhados</string>
-    <string name="quarto_quadrante_parte_2">Aqui, mostramos as localizações do Uzuporã, tanto no quarto quanto no segundo quadrante</string>
+    <string name="quarto_quadrante_parte_2">Aqui, mostramos as localizações do Azuporã, tanto no quarto quanto no segundo quadrante</string>
     <string name="quarto_quadrante_parte_3">Localização do Grompe nos dois quadrantes</string>
     <string name="quarto_quadrante_parte_4">E, por último, a localização dos Trevoguaris</string>
     <!-- final de todas as páginas dos quadrantes -->
