@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -7,110 +7,120 @@
     android:orientation="vertical"
     tools:context="br.edu.ifal.joaogabriel.howtoleagueoflegends.Quadrantes">
 
-    <TextView
-        style="@style/subsubtitulo_subpaginas"
-        android:layout_marginTop="0dp"
-        android:text="@string/a_selva"
-        android:id="@+id/aSelva" />
-
-    <TextView
-        style="@style/texto_explicativo_subpaginas"
-        android:text="@string/a_selva_expli"
-        android:layout_below="@+id/imagemSelva" />
-
-    <RelativeLayout
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/aSelva"
-        android:id="@+id/imagemSelva">
+        android:orientation="vertical">
 
-        <ImageView
+        <TextView
+            style="@style/subsubtitulo_subpaginas"
+            android:layout_marginTop="0dp"
+            android:text="@string/a_selva"
+            android:id="@+id/aSelva" />
+
+        <TextView
+            style="@style/texto_explicativo_subpaginas"
+            android:text="@string/a_selva_expli"
+            android:layout_below="@+id/imagemSelva" />
+
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="300dp"
-            android:src="@drawable/mapa_quadrantes" />
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:orientation="horizontal"
-            android:id="@+id/layout_superior">
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aSelva"
+            android:id="@+id/imagemSelva">
 
-            <RelativeLayout
-                android:layout_width="188dp"
-                android:layout_height="150dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:src="@drawable/mapa_quadrantes" />
 
-                <Button
-                    android:layout_width="188dp"
-                    android:layout_height="150dp"
-                    android:background="@color/quarto_quadrante"
-                    android:alpha="0.5"
-                    android:onClick="chamarQuartoQuadrante"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="horizontal"
+                android:id="@+id/layout_superior">
 
-                <TextView
-                    style="@style/texto_caixa_a_selva"
-                    android:text="4"/>
-            </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="150dp">
 
-            <RelativeLayout
-                android:layout_width="188dp"
-                android:layout_height="150dp">
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:background="@color/quarto_quadrante"
+                        android:alpha="0.5"
+                        android:onClick="chamarQuartoQuadrante"/>
 
-                <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:background="@color/primeiro_quadrante"
-                    android:alpha="0.5"
-                    android:onClick="chamarPrimeiroQuadrante"/>
+                    <TextView
+                        style="@style/texto_caixa_a_selva"
+                        android:text="4"/>
+                </RelativeLayout>
 
-                <TextView
-                    style="@style/texto_caixa_a_selva"
-                    android:text="1"/>
-            </RelativeLayout>
-        </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="150dp">
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:orientation="horizontal"
-            android:layout_below="@+id/layout_superior">
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/primeiro_quadrante"
+                        android:alpha="0.5"
+                        android:onClick="chamarPrimeiroQuadrante"/>
 
-            <RelativeLayout
-                android:layout_width="188dp"
-                android:layout_height="150dp">
+                    <TextView
+                        style="@style/texto_caixa_a_selva"
+                        android:text="1"/>
+                </RelativeLayout>
+            </LinearLayout>
 
-                <Button
-                    android:layout_width="188dp"
-                    android:layout_height="150dp"
-                    android:background="@color/terceiro_quadrante"
-                    android:alpha="0.5"
-                    android:onClick="chamarTerceiroQuadrante"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="horizontal"
+                android:layout_below="@+id/layout_superior">
 
-                <TextView
-                    style="@style/texto_caixa_a_selva"
-                    android:text="3"/>
-            </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="150dp">
 
-            <RelativeLayout
-                android:layout_width="188dp"
-                android:layout_height="150dp">
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:background="@color/terceiro_quadrante"
+                        android:alpha="0.5"
+                        android:onClick="chamarTerceiroQuadrante"/>
 
-                <Button
-                    android:layout_width="188dp"
-                    android:layout_height="150dp"
-                    android:background="@color/segundo_quadrante"
-                    android:alpha="0.5"
-                    android:onClick="chamarSegundoQuadrante"/>
+                    <TextView
+                        style="@style/texto_caixa_a_selva"
+                        android:text="3"/>
+                </RelativeLayout>
 
-                <TextView
-                    style="@style/texto_caixa_a_selva"
-                    android:text="2"/>
-            </RelativeLayout>
-        </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="150dp">
 
-    </RelativeLayout>
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:background="@color/segundo_quadrante"
+                        android:alpha="0.5"
+                        android:onClick="chamarSegundoQuadrante"/>
 
-    <TextView
-        style="@style/texto_explicativo_subpaginas"
-        android:text="@string/clicar_quadrante"/>
+                    <TextView
+                        style="@style/texto_caixa_a_selva"
+                        android:text="2"/>
+                </RelativeLayout>
+            </LinearLayout>
 
+        </RelativeLayout>
 
-</LinearLayout>
+        <TextView
+            style="@style/texto_explicativo_subpaginas"
+            android:text="@string/clicar_quadrante"/>
+
+    </LinearLayout>
+</ScrollView>
